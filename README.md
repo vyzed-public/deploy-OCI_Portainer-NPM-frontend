@@ -14,7 +14,7 @@ Using the following stack:
 ---
 
 ### Approach:
-* As we proceed, we'll [track our progress on a per-issue basis](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/issues), in a "GSD using micro-tasks" manner.   
+* As we proceed, we'll [track our progress on a per-issue basis](https://github.com/vyzed-public/deploy-OCI_Portainer-NPM-frontend/issues), in a "GSD using micro-tasks" manner.   
 * Useful SOPs can be constructed from the [project history](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/issues/?sort=created_asc&state=all&first_page_size=20) (tracked via the ordered issues).
 * A collection of useful [Resources, Tutorials, & Benchmark Projects](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/wikis/Useful-Resources,-Tutorials,-&-Benchmark-Projects) are in the project wiki.
 
