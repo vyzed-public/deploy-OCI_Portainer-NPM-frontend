@@ -1,2 +1,29 @@
 # deploy-OCI_Portainer-NPM-frontend
-Explore practical deployment of a Portainer web GUI instance onto the free service tier of Oracle Cloud Infrastructure that implements a reverse proxy for front-end network services using Nginx Proxy Manager.
+Explore practical deployments onto the free service tier of Oracle Cloud Infrastructure of: 
+* ...a simple Portainer instance offering a web GUI
+* ...behind a reverse proxy (using Nginx Proxy Manager)
+* ...on a front-end Docker network 
+
+Using the following stack:
+* Cloud IAAS: Free tier of OCI (Oracle Cloud Infrastructure)
+  * OS: Ubuntu Minimal v24 
+    * Docker (and Docker compose)
+      * Portainer (for compose-based deployments via the Portainer Stack GUI) 
+        * Reverse Proxy using NPM (NGINX Proxy Manager)
+
+---
+
+### Approach:
+* As we proceed, we'll [track our progress on a per-issue basis](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/issues), in a "GSD using micro-tasks" manner.   
+* Useful SOPs can be constructed from the [project history](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/issues/?sort=created_asc&state=all&first_page_size=20) (tracked via the ordered issues).
+* A collection of useful [Resources, Tutorials, & Benchmark Projects](https://gitlab.com/mindcurrent-public/explore-nextcloud-deployments/deploy-oci_portainer-npm-nc-sqlite/-/wikis/Useful-Resources,-Tutorials,-&-Benchmark-Projects) are in the project wiki.
+
+
+### Results:
+
+Deployments to the following active instances:  
+* Reverse proxy service: https://proxy.vyzed.net
+* Portainer GUI instance: https://ptner.vyzed.net
+
+
+
