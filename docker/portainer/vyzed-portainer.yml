@@ -1,5 +1,7 @@
-# If the name bothers you, you can simply: ln -s compose.portainer.yml docker-compose.yml 
-version: "3"
+# version: "3" # disable the vesrion for warmings during launches on Ubuntu 24 Mininal on Oracle Cloud
+               # WARN[0000] /opt/vyzed-portainer/vyzed-portainer.yml: 
+               # the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+
 services:
   portainer:
     image: portainer/portainer-ce:latest
