@@ -13,7 +13,7 @@ Using the following stack:
 
 --- 
 
-### Obnjective:
+### Objective:
 
 We want to set the stage for additional SaaS instance deployments, in the following project repo collection:
 * [deploy-OCI_AdGuardHome_rp-NPM](https://github.com/vyzed-public/deploy-OCI_AdGuardHome_rp-NPM)
