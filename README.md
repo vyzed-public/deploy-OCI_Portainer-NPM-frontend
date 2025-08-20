@@ -22,8 +22,8 @@ Using the following stack:
 ### Results:
 
 Deployments to the following active instances:  
-* Reverse proxy service: https://proxy.vyzed.net
-* Portainer GUI instance: https://ptner.vyzed.net
+* Reverse proxy service: https://proxy.ns01.vyzed.net
+* Portainer GUI instance: https://ptner.ns01.vyzed.net
 
 
 
