@@ -4,7 +4,7 @@
 
 services:
   portainer:
-    image: portainer/portainer-ce:latest
+    image: portainer/portainer-ce:2.33.5
     container_name: portainer
     ports:
       - 9443:9443  # We want https for SSL, not 9000:9000, which yields http.
